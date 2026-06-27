@@ -18,3 +18,9 @@ Recursive function that calculates factorial of any number.
 A complete grade reporting system with input validation and analytics.
 - Concepts: structs, arrays, loops, getline, input validation, do-while
 - Features: letter grades, class average, highest/lowest score
+
+### Vehicle Management System (Day 31)
+Full OOP system with inheritance and polymorphism.
+- Concepts: Vehicle parent class, Car/Motorcycle children
+- Features: pointer array, virtual functions, dynamic memory
+- Demonstrates: encapsulation, inheritance, polymorphism
